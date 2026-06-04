@@ -53,9 +53,7 @@ The target machine was reachable.
 
 ### Screenshot
 
-```text
 ![Ping Scan](screenshots/ping.png)
-```
 
 ---
 
@@ -86,9 +84,7 @@ CyberHeros : Index
 
 ### Screenshot
 
-```text
 ![Nmap Scan](screenshots/nmap-scan.png)
-```
 
 ---
 
@@ -104,9 +100,7 @@ http://10.48.165.149
 
 ### Screenshot
 
-```text
 ![Homepage](screenshots/homepage.png
-```
 
 ---
 
@@ -132,9 +126,8 @@ The application exposed an assets directory containing static files such as CSS,
 
 ### Screenshot
 
-```text
 ![FFUF Enumeration](screenshots/ffuf.png)
-```
+
 
 ---
 
@@ -150,9 +143,8 @@ http://10.48.165.149/login.html
 
 ### Screenshot
 
-```text
 ![Login Page](screenshots/login-page.png)
-```
+
 
 ---
 
@@ -247,9 +239,8 @@ Successfully authenticated to the application.
 
 ### Screenshot
 
-```text
 ![Successful Login](screenshots/successful-login.png)
-```
+
 
 ---
 
