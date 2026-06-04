@@ -102,7 +102,6 @@ http://10.48.165.149
 
 ![Homepage](screenshots/homepage.png
 
----
 
 # Directory Enumeration
 
