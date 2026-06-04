@@ -100,7 +100,7 @@ http://10.48.165.149
 
 ### Screenshot
 
-![Homepage](screenshots/homepage.png
+![Homepage](screenshots/homepage.png)
 
 
 # Directory Enumeration
