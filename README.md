@@ -4,6 +4,19 @@ Detailed walkthrough of the CyberHeroes room on TryHackMe covering enumeration, 
 
 ---
 
+<p align="center">
+  <img src="images/room.png" width="800">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TryHackMe-Blog-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-TryHackMe-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+</p>
+
+---
+
 # Room Information
 
 | Room       | CyberHeroes                                               |
