@@ -5,7 +5,7 @@ Detailed walkthrough of the CyberHeroes room on TryHackMe covering enumeration, 
 ---
 
 <p align="center">
-  <img src="images/room.png" width="800">
+  <img src="screenshots/room.png" width="800">
 </p>
 
 <p align="center">
